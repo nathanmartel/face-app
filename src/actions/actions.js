@@ -1,6 +1,6 @@
 // coffee - {coffees}
 export const DRINK_COFFEE = 'DRINK_COFFEE';
-export const drinkCoffee = (amount) => ({
+export const drinkCoffee = () => ({
   type: DRINK_COFFEE
 });
 
